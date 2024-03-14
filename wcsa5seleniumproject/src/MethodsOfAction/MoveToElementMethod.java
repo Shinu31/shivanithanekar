@@ -1,3 +1,4 @@
+
 package MethodsOfAction;
 
 import java.time.Duration;
